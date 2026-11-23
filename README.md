@@ -12,3 +12,6 @@ No VScode instale o Hermes no Terminal comando: iex (irm https://hermes-agent.no
 Depois instale o DIO Agent comando: git clone https://github.com/digitalinnovationone/dio-agent.git
 
 "<img width="1203" height="744" alt="Screenshot_2" src="https://github.com/user-attachments/assets/a0802bf6-7a69-48a4-bdb9-27b3ef59f707" />
+
+# Passo 2 - Construindo um GrardiAI Especialista em AppSec.
+
