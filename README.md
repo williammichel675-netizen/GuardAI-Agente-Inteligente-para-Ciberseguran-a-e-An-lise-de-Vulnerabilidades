@@ -48,5 +48,17 @@ cite a técnica correspondente no MITRE ATT&CK e reescreva o código corrigindo 
 
 "<img width="1231" height="753" alt="Screenshot_6" src="https://github.com/user-attachments/assets/a26d9b0f-87d2-4772-ac53-92558ae68fdd" />
 
+Recorte ou copie o comando no Hermes como mostra a imagem abaixo.
+
+"<img width="1333" height="795" alt="Screenshot_7" src="https://github.com/user-attachments/assets/87b4eef3-3b98-4013-a1a4-90d734c9c85a" />
+
+
+
+
+
+
+
+
+
 
 
