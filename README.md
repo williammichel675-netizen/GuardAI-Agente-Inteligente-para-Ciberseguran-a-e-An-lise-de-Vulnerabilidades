@@ -294,6 +294,13 @@ Garantir que sistemas continuem funcionando.
 - realizar backups;
 - corrigir vulnerabilidades conhecidas.
 
+
+No terminal digite : Quero analisar uma vulnerabilidade.
+Tenho um servidor Ubuntu exposto na internet.
+Não sei por onde começar.
+
+"<img width="1130" height="834" alt="Screenshot_18" src="https://github.com/user-attachments/assets/7ac3618f-8107-4783-b4f6-95c626895254" />
+
   
 
 
