@@ -301,6 +301,17 @@ Não sei por onde começar.
 
 "<img width="1130" height="834" alt="Screenshot_18" src="https://github.com/user-attachments/assets/7ac3618f-8107-4783-b4f6-95c626895254" />
 
+Vejá que esse Agente de IA começa a interagir e dar respostas e perguntas para o aluno melhorar seus conhecimentos em cibersegurança. 
+
+"<img width="1127" height="861" alt="Screenshot_19" src="https://github.com/user-attachments/assets/08b1a9ab-14b8-44e9-9089-f9a81929c76b" />
+
+ E para finalizar podemos colocar o mesmo prompt no Chat GPT e termos mais informações para o nosso aprendizado.
+
+ "<img width="1778" height="863" alt="Screenshot_20" src="https://github.com/user-attachments/assets/e11e3d1c-7c48-4db5-a1b6-9d4c1225401a" />
+
+ "<img width="812" height="170" alt="Screenshot_21" src="https://github.com/user-attachments/assets/a7ccc0cf-5223-4a78-9bff-778b3a031ff5" />
+
+
   
 
 
