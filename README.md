@@ -20,24 +20,25 @@ Esse código é uma função de login: ele pega um nome de usuário e uma senha 
 
 "<img width="1102" height="743" alt="Screenshot_4" src="https://github.com/user-attachments/assets/d273a4ee-1c2e-47e3-a56b-99aa2b1dfda3" />
 
+
 ```python
-import sqlite3
-
-
 def fazer_login(usuario, senha):
-    conexao = sqlite3.connect("banco_de_dados.db")
+    conexao = sqlite3.connect('banco_de_dados.db')
     cursor = conexao.cursor()
 
-    query = "SELECT * FROM usuarios WHERE username = ? AND password = ?"
-    cursor.execute(query, (usuario, senha))
-    resultado = cursor.fetchone()
+    query = f"SELECT * FROM usuarios WHERE username = '{usuario}' AND password = '{senha}'"
 
+    cursor.execulte(query)
+    resultado = cursor.fetchone()
     conexao.close()
 
     if resultado:
         return "Acesso Permitido!"
-    return "Acesso Negado."
-``` 
+    else:
+        return "Asesso Negado."
+
+  ```  
+
 No terminal habilite o Hermes e aguarde até ele carregar.
 
 "<img width="1096" height="728" alt="Screenshot_5" src="https://github.com/user-attachments/assets/06efe365-599c-4487-9892-cc81b816b9c6" />
@@ -48,9 +49,11 @@ cite a técnica correspondente no MITRE ATT&CK e reescreva o código corrigindo 
 
 "<img width="1231" height="753" alt="Screenshot_6" src="https://github.com/user-attachments/assets/a26d9b0f-87d2-4772-ac53-92558ae68fdd" />
 
-Recorte ou copie o comando no Hermes como mostra a imagem abaixo.
+Recorte ou copie o comando no Hermes como mostra a imagem abaixo e tecla Enter, aguarde ele fazer todo o processo.
 
 "<img width="1333" height="795" alt="Screenshot_7" src="https://github.com/user-attachments/assets/87b4eef3-3b98-4013-a1a4-90d734c9c85a" />
+
+
 
 
 
