@@ -82,6 +82,31 @@ Dentro dessa pasta crie mais dois arquivos o "SKIILL.MD" e o "README.MD"
 
 "<img width="1112" height="748" alt="Screenshot_11" src="https://github.com/user-attachments/assets/76637ddd-21c8-43b3-a24c-540e31e334e3" />
 
+No arquivo README.MD vamos colocar a explicação do que queremos.
+ 
+ Vunerability Analysis Skill
+
+skill responsável por ensinar análise de vunerabilidades.
+
+ objetivo
+
+Ajudar estudantes a entender:
+
+- conceitos da segurança;
+- indentificação de riscos;
+- impacto de vunerabilidades;
+- boas préticas de correção.
+
+ fluxo
+
+1. Entender o cenário
+2. Coletar informações
+3. Explicar o risco
+4. Apresentar melhorias
+5. Ensinar prevenção
+
+"<img width="942" height="699" alt="Screenshot_12" src="https://github.com/user-attachments/assets/c035ddcd-fdc2-454d-b6f5-2e65240b0130" />
+
 
 
 
