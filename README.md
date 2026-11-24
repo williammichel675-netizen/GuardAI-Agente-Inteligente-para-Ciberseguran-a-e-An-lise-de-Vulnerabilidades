@@ -82,7 +82,7 @@ Dentro dessa pasta crie mais dois arquivos o "SKIILL.MD" e o "README.MD"
 
 "<img width="1112" height="748" alt="Screenshot_11" src="https://github.com/user-attachments/assets/76637ddd-21c8-43b3-a24c-540e31e334e3" />
 
-No arquivo README.MD vamos colocar a explicação do que queremos.
+No arquivo README.MD vamos escrever as explicações do que queremos.
  
  Vunerability Analysis Skill
 
@@ -107,7 +107,7 @@ Ajudar estudantes a entender:
 
 "<img width="942" height="699" alt="Screenshot_12" src="https://github.com/user-attachments/assets/c035ddcd-fdc2-454d-b6f5-2e65240b0130" />
 
-No arquivo SKILL.MD coloque o que ira ser feito
+No arquivo SKILL.MD coloque o que ira ser feito pelo Agente de IA
 
 "<img width="1143" height="806" alt="Screenshot_13" src="https://github.com/user-attachments/assets/738c7b11-fe38-4977-aebe-0842a4f6177a" />
 
@@ -265,9 +265,9 @@ Nunca:
 - explique o racicínio;
 - incentive ambiente de laboratório;
 - desenvolva pensameto crítico.
+----------------------------------------------------------------------------------------------------------------------
 
-
-
+# Passo 5- Ensinando Fundamentos de Segurança ao GuardiAI.
 
 
 
