@@ -274,9 +274,30 @@ Na pasta knowledge crie um novo arquivo com o nome "security-basics.md"
 
 "<img width="1037" height="730" alt="Screenshot_14" src="https://github.com/user-attachments/assets/269aa1a4-2da1-4f3b-a608-93eefdc6a2da" />
 
-Copie e cole as informações que colocamos no arquivo "SKILL.MD" nesse arquivo "security-basics.md"
+Comando da segurança básica desse arquivo "security-basics.md"
 
-"<img width="1138" height="811" alt="Screenshot_15" src="https://github.com/user-attachments/assets/2d79facb-b2d2-486a-85ec-8b42c180a414" />
+"<img width="1117" height="736" alt="Screenshot_17" src="https://github.com/user-attachments/assets/11b4928b-f84b-4780-baea-7db3712eecd7" />
+
+# Fundamentos de Segurança da Informação
+## Princípios de Segurança
+### Integridade
+
+### Disponibilidade
+
+Garantir que sistemas continuem funcionando.
+
+## Boas PRÁTICAS
+
+- manter sistemas atualizados;
+- utilizar autenticação forte;
+- aplicar menor privilégios;
+- realizar backups;
+- corrigir vulnerabilidades conhecidas.
+
+  
+
+
+
 
 
 
