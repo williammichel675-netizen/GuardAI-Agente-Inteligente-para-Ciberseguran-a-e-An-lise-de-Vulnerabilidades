@@ -67,7 +67,7 @@ Reescrevi agent/app.py para usar consulta parametrizada e hash de senha PBKDF2 c
 
 Verificação: os 4 testes passaram e py_compile não apontou erro."
 
-# E analisando esse novo código gerado pelo Hemes no Gemmini do Google ele me diz que o código está funcionalmente corretamente e segue boas práticas de segurança para autenticação com PBKDF2 e SQLite. Ele evita SQL Injection com consulta parametrizada.
+# E analisando esse novo código gerado pelo Hemes, no Gemmini do Google ele me diz que o código está funcionalmente corretamente e segue boas práticas de segurança para autenticação com PBKDF2 e SQLite. Ele evita SQL Injection com consulta parametrizada.
 
 "<img width="1611" height="973" alt="Screenshot_9" src="https://github.com/user-attachments/assets/7eb43b49-9baa-4d52-9c37-3b6e733e7ce5" />
 
