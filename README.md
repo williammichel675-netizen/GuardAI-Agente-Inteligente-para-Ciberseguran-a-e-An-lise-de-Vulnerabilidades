@@ -78,6 +78,11 @@ Vamos criar uma nova habilidade para o nosso DIO Agent, crie uma nova pasta dent
 
 "<img width="1125" height="727" alt="Screenshot_10" src="https://github.com/user-attachments/assets/2b9d9c9a-4d34-44fc-9c53-79978480ae27" />
 
+Dentro dessa pasta crie mais dois arquivos o "SKIILL.MD" e o "README.MD"
+
+"<img width="1112" height="748" alt="Screenshot_11" src="https://github.com/user-attachments/assets/76637ddd-21c8-43b3-a24c-540e31e334e3" />
+
+
 
 
 
