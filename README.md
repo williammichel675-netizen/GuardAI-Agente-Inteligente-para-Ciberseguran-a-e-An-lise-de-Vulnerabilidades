@@ -269,6 +269,11 @@ Nunca:
 
 # Passo 5- Ensinando Fundamentos de Segurança ao GuardiAI.
 
+Vamos agora adicionar o conhecimento de segurança que é uma pequena memoria ao nosso ambiente 
+Na pasta knowledge crie um novo arquivo com o nome "security-basics.md"
+
+"<img width="1037" height="730" alt="Screenshot_14" src="https://github.com/user-attachments/assets/269aa1a4-2da1-4f3b-a608-93eefdc6a2da" />
+
 
 
 
