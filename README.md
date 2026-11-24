@@ -15,3 +15,29 @@ Depois instale o DIO Agent comando: git clone https://github.com/digitalinnovati
 
 # Passo 2 - Construindo um GrardiAI Especialista em AppSec.
 
+Crie um novo arquivo app.py na pasta de Agent.
+Esse código é uma função de login: ele pega um nome de usuário e uma senha digitados por alguém, confere se existe um cadastro igual em um banco de dados local e responde se o acesso foi permitido ou negado.
+
+"<img width="1102" height="743" alt="Screenshot_4" src="https://github.com/user-attachments/assets/d273a4ee-1c2e-47e3-a56b-99aa2b1dfda3" />
+
+```python
+import sqlite3
+
+
+def fazer_login(usuario, senha):
+    conexao = sqlite3.connect("banco_de_dados.db")
+    cursor = conexao.cursor()
+
+    query = "SELECT * FROM usuarios WHERE username = ? AND password = ?"
+    cursor.execute(query, (usuario, senha))
+    resultado = cursor.fetchone()
+
+    conexao.close()
+
+    if resultado:
+        return "Acesso Permitido!"
+    return "Acesso Negado."
+``` 
+
+
+
