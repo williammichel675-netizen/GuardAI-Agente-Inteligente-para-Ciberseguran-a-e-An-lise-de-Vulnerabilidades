@@ -72,6 +72,12 @@ Verificação: os 4 testes passaram e py_compile não apontou erro."
 "<img width="1611" height="973" alt="Screenshot_9" src="https://github.com/user-attachments/assets/7eb43b49-9baa-4d52-9c37-3b6e733e7ce5" />
 
 
+# Passo 4 - Criando uma Extensão de Segurança personalizada.
+
+Vamos criar uma nova habilidade para o nosso DIO Agent, crie uma nova pasta dentro de Skill e nomeie "vunerability-analysis"
+
+"<img width="1125" height="727" alt="Screenshot_10" src="https://github.com/user-attachments/assets/2b9d9c9a-4d34-44fc-9c53-79978480ae27" />
+
 
 
 
