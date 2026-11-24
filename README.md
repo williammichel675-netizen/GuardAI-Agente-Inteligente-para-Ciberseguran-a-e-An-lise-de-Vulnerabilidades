@@ -42,7 +42,7 @@ No terminal habilite o Hermes e aguarde até ele carregar.
 
 "<img width="1096" height="728" alt="Screenshot_5" src="https://github.com/user-attachments/assets/06efe365-599c-4487-9892-cc81b816b9c6" />
 
-Voltando ao código colocarmos um comando: Atue como um Especialista em AppsSec. Leia o arquivo app.py nesta pasta.
+Voltando ao código colocaremos um comando: Atue como um Especialista em AppsSec. Leia o arquivo app.py nesta pasta.
 Indetifique se existe alguma vunerabilidade crítica, explique como um atacante poderia explorá-la, 
 cite a técnica correspondente no MITRE ATT&CK e reescreva o código corrigindo a falha de forma segura 
 
