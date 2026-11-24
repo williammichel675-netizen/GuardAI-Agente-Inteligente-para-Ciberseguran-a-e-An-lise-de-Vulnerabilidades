@@ -274,6 +274,11 @@ Na pasta knowledge crie um novo arquivo com o nome "security-basics.md"
 
 "<img width="1037" height="730" alt="Screenshot_14" src="https://github.com/user-attachments/assets/269aa1a4-2da1-4f3b-a608-93eefdc6a2da" />
 
+Copie e cole as informações que colocamos no arquivo "SKILL.MD" nesse arquivo "security-basics.md"
+
+"<img width="1138" height="811" alt="Screenshot_15" src="https://github.com/user-attachments/assets/2d79facb-b2d2-486a-85ec-8b42c180a414" />
+
+
 
 
 
