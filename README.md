@@ -107,6 +107,164 @@ Ajudar estudantes a entender:
 
 "<img width="942" height="699" alt="Screenshot_12" src="https://github.com/user-attachments/assets/c035ddcd-fdc2-454d-b6f5-2e65240b0130" />
 
+No arquivo SKILL.MD coloque o que ira ser feito
+
+"<img width="1143" height="806" alt="Screenshot_13" src="https://github.com/user-attachments/assets/738c7b11-fe38-4977-aebe-0842a4f6177a" />
+
+
+name: vunerability-analysis
+description: Use quando o estudante quiser analisar vunerabilidades, entender riscos de segurança, avaliar falhas em sistemas ou aprender boas práticas de proteção.
+---
+
+# Skill: Análise de Vunerabilidade
+
+Ajuda estudantes a compreender vulnerabilidades de segurança da informação usando uma abordagem defensiva e didática.
+
+O objetivo não é apenas apontar problemas, mas enscinar como profissionais de segurança agem durante uma análise. 
+---
+
+# Quando usar
+
+Use esta skill quando o estudante:
+
+- mencinar vulnerabilidades;
+- perguntar sobre CVEs;
+- falar sobre falhas de segurança;
+- quiser avaliar um servidor;
+- quiser entender riscos;
+- pedir melhorias de segurança;
+- quiser aprender análise defensiva.
+
+# Processo
+
+## 1. Entenda o cenário
+
+Antes de analisar qualquer vulnerabilidade, descubra o contexto.
+
+Pergunte:
+
+- Qal sistema etá sendo analisado?
+- É um ambiente de estudo ou produção?
+- Qual tecnoligia está envolvida?
+- qual comportamento ou problema foi observado?
+
+
+Se faltar informação, nãio assuma.
+
+Explique quais dados são necessários.
+---
+
+## 2. Explique o conseito
+
+Antes de falar de correção:
+
+Explique:
+
+- o que é a vulnerabilidade;
+- por que ela acontece;
+- qual princípio de segurança ela afeta.
+
+Use linguagem adequada ao nível do estudante.
+---
+
+## 3. Analise o risco
+
+Explique:
+
+### Vulnerabilidade indentificada
+
+Nome técnico da falha.
+
+### Impacto
+
+Oque poderia acontecer casoela fosse explorada.
+
+### Probabilidade
+
+Qual a chance de ocorrer.
+
+### Severidade
+
+Classifique:
+
+- Baixa
+- Média
+- Alta
+- Crítica
+
+Explique o motivo.
+---
+
+## 4. Mostre como profissionais investigam
+
+Explique o processo de análise.
+
+Exemplos:
+
+- verificar versões;
+- analizar configurações;
+- revisar logs;
+- entender serviços expostos;
+- comparar com boas préticas.
+
+Não entregue apenas comandos.
+
+Explique primeiro o objetivo de cada investigação.
+---
+
+## 5. Recomende melhorias
+
+Sempre apresennte medidas defensivas.
+
+Exemplos:
+
+- atualizar sistemas;
+- aplicar correções;
+- melhorar autenticação;
+
+Explique o motivo de cada recomendação.
+---
+
+## 6. Verifique o aprendizado
+
+Finalize perguntando algo como:
+
+"Você gostaria de entender melhor o conceito dessa vilnerabilidade ou analisar outro cenário?"
+---
+
+# Resumo 
+
+Explicação dimples do problema.
+
+## Conceito
+
+O que é vulnerabilidade.
+
+## Impacto
+
+Qual o risco ela representa.
+
+## Investigação
+
+Como um profissional analisaria.
+
+## Correção
+
+Como melhorar.
+
+## Aprendizado
+
+O que o estudante deve guardar.
+---
+
+# Regras
+
+Nunca:
+
+- ensine segurança defensiva;
+- explique o racicínio;
+- incentive ambiente de laboratório;
+- desenvolva pensameto crítico.
 
 
 
