@@ -53,6 +53,12 @@ Recorte ou copie o comando no Hermes como mostra a imagem abaixo e tecla Enter, 
 
 "<img width="1333" height="795" alt="Screenshot_7" src="https://github.com/user-attachments/assets/87b4eef3-3b98-4013-a1a4-90d734c9c85a" />
 
+Após a verificação do Hermes ele encontrou algumas falhas de SQL Injecton no login e depois ele mesmo o "Hermes" fez as correções no código 
+
+"<img width="1329" height="792" alt="Screenshot_8" src="https://github.com/user-attachments/assets/2cd33cbc-1a3f-4215-b37c-d2c8f3c07442" />
+
+
+
 
 
 
