@@ -57,6 +57,18 @@ Após a verificação do Hermes ele encontrou algumas falhas de SQL Injecton no 
 
 "<img width="1329" height="792" alt="Screenshot_8" src="https://github.com/user-attachments/assets/2cd33cbc-1a3f-4215-b37c-d2c8f3c07442" />
 
+"A análise encontrou SQL Injection no login em agent/app.py. A consulta interpolava diretamente usuário e senha no SQL; entradas manipuladas poderiam alterar a condição da busca e, se a função estivesse acessível, permitir autenticação indevida.
+
+Não dá para afirmar que seja uma vulnerabilidade crítica explorável no ambiente atual: o arquivo original também não importava sqlite3 e chamava execulte, que não existe. Esses erros impediriam a consulta de funcionar. Também não encontrei uma rota ou configuração de implantação que confirme exposição externa.
+
+MITRE ATT&CK: T1190 — Exploit Public-Facing Application, somente se essa função fizer parte de uma aplicação exposta publicamente. A técnica não fica confirmada pelo código isolado.
+
+Reescrevi agent/app.py para usar consulta parametrizada e hash de senha PBKDF2 com salt, além de rejeitar registros legados em texto puro. As senhas antigas precisarão de migração controlada ou redefinição.
+
+Verificação: os 4 testes passaram e py_compile não apontou erro."
+
+
+
 
 
 
